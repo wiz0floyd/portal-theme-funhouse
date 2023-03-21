@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>u_dynamic_theme</from_table>
+        <m2m_from_field>u_dynamic_theme</m2m_from_field>
+        <m2m_from_label>Users</m2m_from_label>
+        <m2m_table>u_m2m_u_dynamic_theme_sys_user</m2m_table>
+        <m2m_to_field>sys_user</m2m_to_field>
+        <m2m_to_label>Dynamic Themes</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 01:13:57</sys_created_on>
+        <sys_id>50a67e4447f5e150e628d855d36d43f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_m2m_u_dynamic_theme_sys_user</sys_name>
+        <sys_package display_value="Portal Theme JavaScript Funhouse" source="42b5320447f5e150e628d855d36d43b7">42b5320447f5e150e628d855d36d43b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal Theme JavaScript Funhouse">42b5320447f5e150e628d855d36d43b7</sys_scope>
+        <sys_update_name>sys_m2m_50a67e4447f5e150e628d855d36d43f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 01:13:57</sys_updated_on>
+        <to_table>sys_user</to_table>
+    </sys_m2m>
+</record_update>

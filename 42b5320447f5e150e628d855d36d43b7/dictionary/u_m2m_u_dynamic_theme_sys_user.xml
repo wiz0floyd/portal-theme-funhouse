@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e7c6be0447f5e150e628d855d36d433c" label="u_m2m_Dynamic Themes_Users" max_length="40" name="u_m2m_u_dynamic_theme_sys_user" type="collection">
+        <element attributes="encode_utf8=false" label="Users" max_length="32" name="sys_user" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Dynamic Themes" max_length="32" name="u_dynamic_theme" reference="u_dynamic_theme" type="reference"/>
+        <index name="index">
+            <element name="sys_user"/>
+        </index>
+        <index name="index2">
+            <element name="u_dynamic_theme"/>
+        </index>
+    </element>
+</database>

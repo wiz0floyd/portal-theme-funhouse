@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="u_m2m_u_dynamic_theme_sys_user" version="2" view="ess">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_dynamic_theme</element>
+            <list_id display_value="u_m2m_u_dynamic_theme_sys_user" element="NULL" name="u_m2m_u_dynamic_theme_sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="989fc260f90211108c8bd16244dfe732">9568bec447f5e150e628d855d36d4342</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 01:20:53</sys_created_on>
+            <sys_id>9168bec447f5e150e628d855d36d4343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 01:20:53</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_m2m_u_dynamic_theme_sys_user</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-21 01:20:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9568bec447f5e150e628d855d36d4342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_m2m_u_dynamic_theme_sys_user</sys_name>
+            <sys_package display_value="Portal Theme JavaScript Funhouse" source="42b5320447f5e150e628d855d36d43b7">42b5320447f5e150e628d855d36d43b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Portal Theme JavaScript Funhouse">42b5320447f5e150e628d855d36d43b7</sys_scope>
+            <sys_update_name>sys_ui_list_u_m2m_u_dynamic_theme_sys_user_ess</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-21 01:20:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="Self Service" name="ess">989fc260f90211108c8bd16244dfe732</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

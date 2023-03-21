@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5626724447f5e150e628d855d36d434c" label="Dynamic Theme" max_length="40" name="u_dynamic_theme" type="collection">
+        <element label="Brand Neutral" max_length="40" name="u_brand_neutral" type="color"/>
+        <element label="Brand Primary" max_length="40" name="u_brand_primary" type="color"/>
+        <element label="Brand Secondary" max_length="40" name="u_brand_secondary" type="color"/>
+        <element label="Name" max_length="200" name="u_name" type="string"/>
+    </element>
+</database>
